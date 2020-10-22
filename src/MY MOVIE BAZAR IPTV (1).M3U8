@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 group-title="GTV",GTV
+http://45.249.187.238:8081/hls/live5.m3u8
+#EXTINF:-1 group-title="CHANNEL 9",CHANNEL 9
+http://45.249.187.238:8081/hls/live3.m3u8
+#EXTINF:-1 group-title="MASSRANGA TV",MASSRANGA TV
+http://45.249.187.238:8081/hls/live6.m3u8
+#EXTINF:-1 group-title="DISNEY CHANNEL",DISNEY CHANNEL
+http://45.249.187.238:8081/hls/live0.m3u8
+#EXTINF:-1 group-title="CHANNEL I",CHANNEL I
+http://45.249.187.238:8081/hls/live7.m3u8
+#EXTINF:-1 group-title="NEWS24",NEWS24
+http://45.249.187.238:8081/hls/live4.m3u8
+#EXTINF:-1 group-title="JAMUNATV",JAMUNATV
+http://45.249.187.238:8081/hls/live2.m3u8
+#EXTINF:-1 group-title="ZEETV",ZEETV
+http://45.249.187.238:8081/hls/tsl-5.m3u8
+#EXTINF:-1 group-title="&TV",&TV
+http://45.249.187.238:8081/hls/tsl-6.m3u8
+#EXTINF:-1 group-title="STARGOLD 2",STARGOLD 2
+http://45.249.187.238:8081/hls/tsl-3.m3u8
+#EXTINF:-1 group-title="&PICTURES",&PICTURES
+http://45.249.187.238:8081/hls/tsl-2.m3u8
+#EXTINF:-1 group-title="STAR MOVIES",STAR MOVIES
+http://45.249.187.238:8081/hls/tsl-8.m3u8
+#EXTINF:-1 group-title="INDEPENDENT-TV",INDEPENDENT-TV
+http://45.249.187.238:8081/hls/hdmi4.m3u8
+#EXTINF:-1 group-title="ANIMAL PLANET HD",ANIMAL PLANET HD
+http://45.249.187.238:8081/hls/tsl-1.m3u8
+#EXTINF:-1 group-title="PTV SPORTS",PTV SPORTS
+http://45.249.187.238:8081/hls/hdmi3.m3u8
+#EXTINF:-1 group-title="SONY SAB",SONY SAB
+http://45.249.187.238:8081/hls/tsl-4.m3u8
+#EXTINF:-1 group-title="SOMOYTV",SOMOY TV
+http://45.249.187.238:8081/hls/hdmi2.m3u8
+#EXTINF:-1 group-title="UTV ACTION",UTV ACTION
+http://45.249.187.238:8081/hls/tsl-7.m3u8
+#EXTINF:-1 group-title="LOTUS MACAU",LOTUS MACAU
+http://45.249.187.238:8081/hls/new24.m3u8
+#EXTINF:-1 group-title="MASTII-TV",MASTII-TV
+http://45.249.187.238:8081/hls/new12.m3u8
+#EXTINF:-1 group-title="NAGORIK-TV",NAGORIK-TV
+http://45.249.187.238:8081/hls/new16.m3u8
+#EXTINF:-1 group-title="ASIAN-TV",ASIAN-TV
+http://45.249.187.238:8081/hls/new4.m3u8
+#EXTINF:-1 group-title="ZEE-BANGLA",ZEE-BANGLA
+http://45.249.187.238:8081/hls/new8.m3u8
+#EXTINF:-1 group-title="CNN",CNN
+http://45.249.187.238:8081/hls/new19.m3u8
+#EXTINF:-1 group-title="ATN-BANGLA",ATN-BANGLA
+http://45.249.187.238:8081/hls/new17.m3u8
+http://45.249.187.238:8081/hls/new20.m3u8
+#EXTINF:-1 group-title="BBC-WORLD",BBC-WORLD
+http://45.249.187.238:8081/hls/new18.m3u8
+#EXTINF:-1 group-title="FILMON TV",FILMON TV
+http://45.249.187.238:8081/hls/new15.m3u8
+#EXTINF:-1 group-title="IQRAA TV",IQRAA TV
+http://45.249.187.238:8081/hls/new11.m3u8
+#EXTINF:-1 group-title="ARY Q TV",ARY Q TV
+http://45.249.187.238:8081/hls/new10.m3u8
+#EXTINF:-1 group-title="MADANI BANGLA",MADANI BANGLA
+http://45.249.187.238:8081/hls/new9.m3u8
+#EXTINF:-1 group-title="9XM",9XM
+http://45.249.187.238:8081/hls/new23.m3u8
+#EXTINF:-1 group-title="DBC NEWS",DBC NEWS
+http://45.249.187.238:8081/hls/new22.m3u8
+#EXTINF:-1 group-title="BTV",BTV
+http://45.249.187.238:8081/hls/new21.m3u8
+#EXTINF:-1 group-title="MOVIES NOW",MOVIES NOW
+http://45.249.187.238:8081/hls/new13.m3u8
+#EXTINF:-1 group-title="CN",CN
+http://45.249.187.238:8081/hls/new14.m3u8
+#EXTINF:-1 group-title="MYTV",MYTV
+http://45.249.187.238:8081/hls/new5.m3u8
+#EXTINF:-1 group-title="BANGLA VISION",BANGLA VISION
+http://45.249.187.238:8081/hls/new6.m3u8
+#EXTINF:-1 group-title="SANGEET-BANGLA",SANGEET-BANGLA
+http://45.249.187.238:8081/hls/new7.m3u8
+#EXTINF:-1 group-title="SKYNET SPORTS-1",SKYNET SPORTS-1
+http://45.249.187.238:8081/hls/new1.m3u8
+#EXTINF:-1 group-title="STAR SPORTS-2",STAR SPORTS-2
+http://45.249.187.238:8081/hls/new2.m3u8
+#EXTINF:-1 group-title="DURONTO TV",DURONTO TV
+http://45.249.187.238:8081/hls/new3.m3u8
+
+
+
